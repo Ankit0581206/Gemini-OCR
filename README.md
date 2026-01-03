@@ -31,7 +31,7 @@ A production-ready, industrial-strength OCR system for processing scanned Nepali
 1. **Clone and setup**
 ```bash
 git clone <repository-url>
-cd nepali-ocr-doc
+cd GOGGLE-OCR
 ```
 
 2. **Install dependencies**
