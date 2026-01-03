@@ -71,7 +71,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-nepali-ocr-doc/
+Gemini-OCR/
 ├── config/
 │   └── settings.py           # Configuration settings
 ├── src/
