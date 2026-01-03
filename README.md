@@ -31,7 +31,7 @@ A production-ready, industrial-strength OCR system for processing scanned Nepali
 1. **Clone and setup**
 ```bash
 git clone <repository-url>
-cd GOGGLE-OCR
+cd Gemini-OCR
 ```
 
 2. **Install dependencies**
